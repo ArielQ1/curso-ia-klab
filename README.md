@@ -29,7 +29,7 @@ Este proceso permite convertir datos brutos en información útil para la toma d
 Los datos nos gritan, nos hablan, te piden permiso.  
 - **Metadata**: Información adicional que describe las características de los datos principales, como el origen, fecha de recolección, formato, tipo de variable, unidades de medida, y cualquier otra información relevante para su interpretación y análisis. La metadata es esencial para comprender el contexto de los datos y asegurar su correcto uso en los modelos de inteligencia artificial.
 
-## Aprendizaje
+## Aprendizaje 09-7-25
 
 ![Resumen de tipos de algoritmos de aprendizaje automático](https://www.shutterstock.com/image-vector/types-machine-learning-algorithms-classification-600nw-2220216845.jpg)
 
